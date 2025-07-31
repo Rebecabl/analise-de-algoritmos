@@ -1,5 +1,5 @@
 
-# Introdução
+# 💡 Introdução
 
 Os algoritmos são fundamentais na ciência da computação e na resolução de problemas computacionais. Neste artigo, vamos explorar o que é um algoritmo, por que é importante estudá-los, e as principais técnicas de construção e análise de algoritmos.
 
